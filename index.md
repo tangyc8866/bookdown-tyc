@@ -13,7 +13,7 @@ link-citations: yes
 
 # 简介 {-}
 
-主要参考 李东风老师的 bookdown中文模板。
+主要参考 李东风老师的 bookdown 中文模板。
 
 
 R软件的bookdown扩展包是R Markdown的增强版，
