@@ -1,6 +1,6 @@
 ---
 title: "中文书模板"
-author: "李东风"
+author: "汤银才"
 date: "2021-07-21"
 description: "这是用R的bookdown功能制作中文图书的模板，输出格式为bookdown::gitbook和bookdown::pdf_book."
 documentclass: book
@@ -12,6 +12,8 @@ link-citations: yes
 
 
 # 简介 {-}
+
+主要参考 李东风老师的 bookdown中文模板。
 
 
 R软件的bookdown扩展包是R Markdown的增强版，
